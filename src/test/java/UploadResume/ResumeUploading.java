@@ -24,6 +24,7 @@ public class ResumeUploading {
 		driver.findElement(By.id("passwordField")).sendKeys("Suppu1234");
 		Thread.sleep(2000);
 		driver.findElement(By.xpath("//button[text()='Login']")).click();
+		System.out.println("Successful");
 	}
 	
 }
