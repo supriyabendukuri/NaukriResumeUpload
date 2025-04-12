@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-12T21:06:50 IST" name="Default suite" finished-at="2025-04-12T21:06:56 IST" duration-ms="5678">
+    <groups>
+    </groups>
+    <test started-at="2025-04-12T21:06:50 IST" name="Default test" finished-at="2025-04-12T21:06:56 IST" duration-ms="5678">
+      <class name="UploadResume.ResumeUploading">
+        <test-method is-config="true" signature="launchUrl()[pri:0, instance:UploadResume.ResumeUploading@f78a47e]" started-at="2025-04-12T21:06:51 IST" name="launchUrl" finished-at="2025-04-12T21:06:54 IST" duration-ms="3273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchUrl -->
+        <test-method signature="login()[pri:0, instance:UploadResume.ResumeUploading@f78a47e]" started-at="2025-04-12T21:06:54 IST" name="login" finished-at="2025-04-12T21:06:56 IST" duration-ms="2369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- UploadResume.ResumeUploading -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
