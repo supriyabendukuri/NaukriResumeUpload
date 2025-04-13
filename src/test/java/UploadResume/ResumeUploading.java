@@ -26,7 +26,7 @@ public class ResumeUploading {
 		driver.findElement(By.xpath("//button[text()='Login']")).click();
 		// System.out.println("Successful");
 		//System.out.println("testing jenkins");
-		System.out.println("checking");
+		//System.out.println("checking");
 	}
 	
 }
