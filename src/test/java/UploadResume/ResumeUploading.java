@@ -27,7 +27,7 @@ public class ResumeUploading {
 		// System.out.println("Successful");
 		//System.out.println("testing jenkins");
 		//System.out.println("checking");
-		//System.out.println("build checking pass/fail");
+		System.out.println("build checking pass/fail");
 	}
 	
 }
